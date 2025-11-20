@@ -5,7 +5,8 @@
 
 
 ## 🚀 Sobre mí
-Soy un apasionado de la ciberseguridad con enfoque en:
+Me impulsa la curiosidad por los sistemas, el análisis detallado y el deseo de aportar valor real en la protección de infraestructuras digitales,
+apasionado de la ciberseguridad con enfoque en:
 
 - 🔵 Seguridad defensiva (Blue Team)
 - 🔴 Seguridad ofensiva (Pentesting)
@@ -52,7 +53,7 @@ Soy un apasionado de la ciberseguridad con enfoque en:
 ## 📫 Contacto
 - 📧 Email: **lindemanguerra@gmail.com**  
 - 🔗 LinkedIn: [linkedin.com/in/jose-lindeman](https://linkedin.com/in/jose-lindeman)  
-- 🐙 GitHub: [github.com/joselindeman](https://github.com/joselindeman)
+- 🐙 GitHub: [github.com/joselindeman](https://github.com/jrlindeman)
 
 <p align="center">
   <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" />
